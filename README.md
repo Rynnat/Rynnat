@@ -20,4 +20,4 @@ An animatronic eye mechanism: two eyes that look left/right and up/down, with ey
 ## Contact
 
 - Email: [korairyn@gmail.com](mailto:korairyn@gmail.com)
-- LinkedIn: [Galip Koray Şahin](https://www.linkedin.com/in/galip-koray-%C5%9Fahin-748553312/)
+- LinkedIn: [Galip Koray Şahin](https://www.linkedin.com/in/galipkoraysahin/)
