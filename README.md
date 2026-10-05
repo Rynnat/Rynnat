@@ -7,6 +7,8 @@ I'm interested in **neurotechnology, mechatronics and AI-assisted engineering**:
 ## Featured project
 
 ### [Project Eye](https://github.com/Rynnat/project-eye)
+<img src="https://github.com/Rynnat/project-eye/raw/main/media/project_eye_demo.gif" alt="Project Eye running on real hardware" width="420">
+
 An animatronic eye mechanism: two eyes that look left/right and up/down, with eyelids that blink. Three SG90 servos, an Arduino Uno and 3D-printed parts.
 
 - **CAD as code:** every part is generated with CadQuery from one parameter file
